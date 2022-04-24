@@ -1,16 +1,13 @@
-### Hi there 👋, Im Fahad!
+👨🏻‍💻 About Me
 
-<!--
-**fahadbq/fahadbq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🕸️ Passionate about coding and building amazing Applications.
+🔭 Currently looking for opportunities as React Developer (JavaScript, React, React-Hooks, Redux).
+🌱 Learning more about technologies that go into building Full Stack Applications.
+🤔 Exploring new technologies and developing software solutions and quick hacks.
 
-Here are some ideas to get you started:
+🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 JavaScript | ES5 | ES6
+🌐 HTML5 | CSS3 | ReactJS | React-Hooks | Redux | BootStrap
+💡 AJAX | JSON | Local Storage | API'S
+🔧 Git | Visual Studio Code | Postman | Netlify | Heroku
