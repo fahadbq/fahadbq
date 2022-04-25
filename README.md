@@ -2,17 +2,17 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-🕸️ Passionate about coding and building amazing Applications.
-🔭 Currently looking for opportunities as React Developer (JavaScript, React, React-Hooks, Redux).
-🌱 Learning more about technologies that go into building Full Stack Applications.
-🤔 Exploring new technologies and developing software solutions and quick hacks.
+- 🕸️ &nbsp; Passionate about coding and building amazing Applications.
+- 🔭 &nbsp; Currently looking for opportunities as React Developer (JavaScript, React, React-Hooks, Redux).
+- 🌱 &nbsp; Learning more about technologies that go into building Full Stack Applications.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 <h3> 🛠 Tech Stack </h3>
 
-💻 JavaScript | ES5 | ES6
-🌐 HTML5 | CSS3 | ReactJS | React-Hooks | Redux | BootStrap
-💡 AJAX | JSON | Local Storage | API'S
-🔧 Git | Visual Studio Code | Postman | Netlify | Heroku
+- 💻 &nbsp; JavaScript | ES5 | ES6
+- 🌐 &nbsp; HTML5 | CSS3 | ReactJS | React-Hooks | Redux | BootStrap
+- 🛢 &nbsp; AJAX | JSON | Local Storage | API'S
+- 🔧 &nbsp; Git | Visual Studio Code | Postman | Netlify | Heroku
 
 <h3>🤝🏻 Connect with Me </h3>
 
