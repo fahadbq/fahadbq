@@ -1,4 +1,4 @@
-Hi there, I’m Fahad!
+### Hi there 👋, I’m Fahad!
 
 👨🏻‍💻 About Me
 
