@@ -1,6 +1,6 @@
-<h2> Hi there 👋, I’m Fahad! </h2>
+<h1 align="center">👋 Hi there 👋, I’m Fahad </h1>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3 align="center">👨🏻‍💻 About Me </h3>
 
 - 🕸️ &nbsp; Fascinated about coding and building amazing Applications.
 - 🔭 &nbsp; Currently looking for opportunities as React Developer (JavaScript, React, React-Hooks, Redux).
