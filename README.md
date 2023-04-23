@@ -7,7 +7,7 @@
 <h3 >👨🏻‍💻 About Me </h3>
 
 - 🕸️ &nbsp; Fascinated about coding and building amazing Applications.
-- 🔭 &nbsp; Currently looking for opportunities as MERN Stack Developer (NODE / EXPRESS / MONGODB / REACT / JS / HTML / CSS).
+- 🔭 &nbsp; Currently looking for opportunities as MERN Stack Developer (TS / JS / REACT / HTML / CSS / NODE / EXPRESS / MONGODB / HTML).
 - 🌱 &nbsp; Learning more about technologies that go into building Full Stack Applications.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
@@ -17,6 +17,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <!-- <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> -->
+<img align="left" alt="TypeScirpt" width="26px" src="https://user-images.githubusercontent.com/95031693/233821209-96b50ae5-14b9-4da6-ae4c-f520f30d4657.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
