@@ -1,6 +1,6 @@
 <h1>👋 Hi there, I’m Fahad </h1>
 
-<h2>Check out my portfolio </h2>
+<h2>Check out my Portfolio. Link: (https://fahad-baig.vercel.app/).</h2>
 
 <br/>
 
